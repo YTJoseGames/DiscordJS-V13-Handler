@@ -28,7 +28,7 @@ Antes de instalar, verifique se você atende aos seguintes requisitos:
 
 ## 🎊 Tutoriais
 
-* #001 - Como configurar a Handler - [link](https://youtu.be/Ig_PcQO09q4)
+* #001 - Como configurar a Handler - [Clique Aqui](https://youtu.be/Ig_PcQO09q4)
 
 ## 🚀 Instalando a Handler
 
