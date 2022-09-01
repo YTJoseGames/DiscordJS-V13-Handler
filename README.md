@@ -10,7 +10,7 @@
 
 ### Sistemas
 
-Em breve teremos vários outros sistemas todos em V14 para o seu bot. segue a lista: 
+Em breve teremos vários outros sistemas todos em V13 para o seu bot. segue a lista: 
 
 - [ ] Economia
 - [ ] Moderação
