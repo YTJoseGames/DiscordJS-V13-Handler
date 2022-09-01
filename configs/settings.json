@@ -1,0 +1,9 @@
+{
+	"color": "#2F3136",
+
+	"cooldown_msg": "Aguarde: `<duration>` para executar o comando novamente!",
+	
+	"erromsg": {
+		"titulo": "⚠ Ocorreu um Erro! ⚠"
+	} 
+}
