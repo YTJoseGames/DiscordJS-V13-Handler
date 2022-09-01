@@ -26,6 +26,10 @@ Antes de instalar, verifique se você atende aos seguintes requisitos:
 * [Nodejs](https://nodejs.org/en/) v16 ou superior
 * [Discord.js](https://github.com/discordjs/discord.js/) v13
 
+## 🎊 Tutoriais
+
+* #001 - Como configurar a Handler - [link](https://youtu.be/Ig_PcQO09q4)
+
 ## 🚀 Instalando a Handler
 
 ```bash
