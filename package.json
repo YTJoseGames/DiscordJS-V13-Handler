@@ -1,0 +1,19 @@
+{
+  "name": "tutoriais-djs-v13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.4",
+    "discord.js": "^13.10.3",
+    "ms": "^2.1.3"
+  }
+}
