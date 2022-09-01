@@ -29,6 +29,7 @@ Antes de instalar, verifique se você atende aos seguintes requisitos:
 ## 🎊 Tutoriais
 
 * #001 - Como configurar a Handler - [Clique Aqui](https://youtu.be/Ig_PcQO09q4)
+* #002 - Criando um sistema de bot mention - [Clique Aqui](https://youtu.be/iNpD2KDo1jM)
 
 ## 🚀 Instalando a Handler
 
