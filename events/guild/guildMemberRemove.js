@@ -5,7 +5,7 @@ const {MessageEmbed} = require('discord.js')
 
 client.on('guildMemberRemove', async member => {
     let server = client.guilds.cache.get(config.guild_id)
-    let canal = client.channels.cache.get('1009534562918998077')
+    let canal = client.channels.cache.get('')
 
     if(server != member.guild) {
         return
