@@ -29,8 +29,8 @@ client.on('messageCreate', async message => {
 
 client.on('interactionCreate', async (button) => {
     let server = client.guilds.cache.get(config.guild_id)
-    let canal = client.channels.cache.get('1009534562918998077')
-    let cargo = server.roles.cache.get('1014627263293177866')
+    let canal = client.channels.cache.get('')
+    let cargo = server.roles.cache.get('')
 
     const member = button.member
 
