@@ -17,7 +17,7 @@ Em breve teremos vários outros sistemas todos em V13 para o seu bot. segue a li
 - [ ] Interação
 - [ ] Diversão
 - [ ] Música
-- [ ] Diversificado
+- [x] Diversificado
 
 ## 💻 Pré-requisitos
 
