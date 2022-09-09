@@ -20,7 +20,7 @@ client.on('messageCreate', async message => {
     if(command) {
         if(command.cooldown) {
             
-            if(cooldown.has(`${command.name}${message.author.id}`)) return message.channel.send({ content: settings.cooldown_msg.replace('<duration>', ms(cooldown.get(`${command.name}${message.author.id}`) - Date.now()) ) });
+            if(cooldown.has(`${command.name}${message.author.id}`)) return message.channel.send({ content: settings.cooldowns.message.replace('<duration>', ms(cooldown.get(`${command.name}${message.author.id}`) - Date.now()) ) });
 
             if(command.userPerms || command.botPerms) {
                 if(!message.member.permissions.has(command.userPerms || [])) {
