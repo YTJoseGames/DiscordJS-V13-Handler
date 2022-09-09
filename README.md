@@ -26,15 +26,6 @@ Antes de instalar, verifique se você atende aos seguintes requisitos:
 * [Nodejs](https://nodejs.org/en/) v16 ou superior
 * [Discord.js](https://github.com/discordjs/discord.js/) v13
 
-## 🎊 Tutoriais
-
-### Diversificado
-
-* #001 - Como configurar a Handler - [Clique Aqui](https://youtu.be/Ig_PcQO09q4)
-* #002 - Criando um sistema de bot mention - [Clique Aqui](https://youtu.be/iNpD2KDo1jM)
-* #003 - Detectando Entradas e Saidas do servidor - [Clique Aqui](https://youtu.be/ggCSOMlTOYg)
-* #004 - Criando um sistema de registro - [Clique Aqui](https://youtu.be/yvgJ1mHOi2U)
-
 ## 🚀 Instalando a Handler
 
 ```bash
